@@ -1,0 +1,5 @@
+{
+    "voice_speed": 170,
+    "voice_gender": "male",
+    "model": "deepseek-coder:1.3b"
+}
